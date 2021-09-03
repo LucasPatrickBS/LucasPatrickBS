@@ -41,7 +41,7 @@ Estou me formando como técnico em Análise e desenvolviemnto de sistemas, pelo 
 🤼‍♂️ Team work.   
 🗣 Comunicação.   
 🏃 Proatividade.   
-🫂 Inclusão sempre.   
+🫀 Inclusão sempre.   
 🎓 Cultura Lean.   
 🔛 Liderança.
 
@@ -83,7 +83,7 @@ Estou me formando como técnico em Análise e desenvolviemnto de sistemas, pelo 
 
 <!--🌐 Acesse meu [site pessoal](https://www.lucaspatrick.com.br).-->
 <br>
-<center>
+<center/>
 
 ## Veja minhas preferências:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPatrickBS&layout=compact&theme=nightowl)
@@ -91,5 +91,3 @@ Estou me formando como técnico em Análise e desenvolviemnto de sistemas, pelo 
 
 ## Veja tambêm minhas estatísticas:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasPatrickBS&show_icons=true&theme=nightowl&hide=,issues,contribs)   
-
-<center/>
