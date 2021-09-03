@@ -1,16 +1,32 @@
-### Hi there 👋
+### Oiee 🤗   
 
-<!--
-**LucasPatrickBS/LucasPatrickBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem vindo ao meu perfil, é um prazer te ter aqui! 😄   
 
-Here are some ideas to get you started:
+Estou me formando como técnico em Análise e desenvolviemnto de sistemas, pelo colégio técnico da Unicamp. Atualmente sou desenvolvedor Júnior na empresa CI&T Software, e estou muito feliz por fazer parte dessa comunidade!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Minhas áreas de conhecimento:   
+
+## Back   
+
+☕️ Java.   
+🐍 Python.   
+📌 C#.   
+🟢 NodeJs.
+
+## Front   
+
+🅰️ Angular
+📌 Javascript.   
+📌 Typescript.   
+
+## Infra   
+
+⚙️ Terraform. (IaaS)
+☁️ Amazon Web Services.
+☁️ Google Cloud Plataform.
+
+### Atualmente estudo sobre:
+
+📘 Clean Code.   
+✢ Electron.   
+
