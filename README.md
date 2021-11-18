@@ -56,7 +56,7 @@ Estou me formando como técnico em Análise e desenvolviemnto de sistemas, pelo 
 <br>
 
 ### 🔄 Processos   
-🔵 JYRA.   
+🔵 JIRA.   
 🔵 Bitbucket.  
 🔵 Google Source Repository.   
 🔵 Scaled Agile, modelo como SAFe.   
