@@ -52,6 +52,7 @@ Estou me formando como técnico em Análise e desenvolviemnto de sistemas, pelo 
 ⚙️ Terraform. (IaaS)   
 ☁️ Amazon Web Services.   
 ☁️ Google Cloud Plataform.   
+☁️ Microsoft Azure
 
 <br>
 
@@ -74,7 +75,8 @@ Estou me formando como técnico em Análise e desenvolviemnto de sistemas, pelo 
 ### 🎯 Meus objetivos:
 📌 Speak English.   
 📌 Arquiteto de Sofware.   
-📌 Certificado Desenvolvedor GCP.  
+📌 Certificado Desenvolvedor GCP.   
+📌 Certificado Desenvolvedor AWS.  
 
 <br>
 
@@ -89,7 +91,7 @@ Estou me formando como técnico em Análise e desenvolviemnto de sistemas, pelo 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPatrickBS&layout=compact&theme=nightowl)
 
 
-## Veja tambêm minhas estatísticas:
+## E minhas estatísticas:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasPatrickBS&show_icons=true&theme=nightowl&hide=,issues,contribs)   
 
 <center/>
