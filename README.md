@@ -1,12 +1,10 @@
 ## <center/> Oiee! 🤗   
 
-### Bem vindo ao meu perfil, é um prazer te ter aqui! 😄   
+### 💬 Bem vindo ao meu perfil, é um prazer te ter aqui! 😄   
 
-Estou me formando como técnico em Análise e desenvolviemnto de sistemas, pelo colégio técnico da Unicamp. Atualmente sou desenvolvedor Júnior na empresa CI&T Software, e estou muito feliz por fazer parte dessa comunidade!
+Formado em desenvolvimento de sistemas pelo curso ténico da Unicamp, desenvolvedor Júnior na CI&T Software, sou muito feliz por fazer parte dessa comunidade!   
 
-<br>
-
-## 👨🏼‍💻 Minha atuação conta com:   
+## ⚙️ Minha atuação conta com:   
 <br>
 
 ### 🚀 Tech Skills   
@@ -49,7 +47,7 @@ Estou me formando como técnico em Análise e desenvolviemnto de sistemas, pelo 
 
 ### 🏢 Infra   
 
-⚙️ Terraform. (IaaS)   
+⚙️ Terraform. (IaS)   
 ☁️ Amazon Web Services.   
 ☁️ Google Cloud Plataform.   
 ☁️ Microsoft Azure
@@ -66,7 +64,7 @@ Estou me formando como técnico em Análise e desenvolviemnto de sistemas, pelo 
 
 ### 🧠 Atualmente estudo sobre:   
 
-✢ Electron.   
+⛓ Blockchain.   
 📘 Clean Code.   
 ⚙️ Microserviços em cloud.  
 
