@@ -10,25 +10,24 @@ Formado em desenvolvimento de sistemas pelo curso técnico da Unicamp, desenvolv
 ### 🚀 Tech Skills   
 <table>
     <tr>
+        <td>🟣 C#</td>
+        <td>🔵 Typescript</td>
+        <td>🛡 JWT</td>
+    </tr>
         <td>🎲 SQL</td>
         <td>🟢 NodeJs</td>
-        <td>🛡 JWT</td>
+        <td>🟢 Spring Boot</td>
     </tr>
         <td>☕️ Java</td>
         <td>🅰️ Angular</td>
-        <td>📱 Android</td>
+        <td>📡 API RESTful</td>
     </tr>
         <td>🐍 Python</td>
         <td>🔵 CSS</td>
-        <td>📡 API RESTful</td>
+        <td>📱 Android</td>
     </tr>
-        <td>🟣 C#</td>
         <td>🟡 Javascript</td>
-        <td>🟢 Spring Boot</td>
-    </tr>
-        </tr>
         <td>🟠 HTML</td>
-        <td>🔵 Typescript</td>
         <td>⚪️ E mais!</td>
     </tr>
 <table>
