@@ -2,7 +2,7 @@
 
 ### 💬 Bem vindo ao meu perfil, é um prazer te ter aqui! 😄   
 
-Formado em desenvolvimento de sistemas pelo curso técnico da Unicamp, desenvolvedor pleno na CI&T Software, sou muito feliz por fazer parte dessa comunidade!   
+Formado em desenvolvimento de sistemas pelo curso técnico da Unicamp, desenvolvedor pleno no Itaú, aspirante a cientista de dados e muito feliz por fazer parte dessa comunidade!   
 
 ## ⚙️ Minha atuação conta com:   
 <br>
